@@ -346,3 +346,4 @@ k8s-worker2   Ready    <none>          5m    v1.30.x   10.0.0.6      <worker2-IP
     
 
 If you get the "Welcome to nginx!" response, you have successfully built and configured a K8s using kubeadm!
+---

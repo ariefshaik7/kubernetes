@@ -2,6 +2,7 @@
 
 Welcome to the Kubernetes setup project! This repository demonstrates how to manually set up a Kubernetes cluster using `kubeadm` and access it locally for management and testing.
 
+![Image](https://github.com/user-attachments/assets/8b8a70ae-846d-44a5-afc8-ef0d62f0a1aa)
 ---
 
 ##  What is Kubeadm?
